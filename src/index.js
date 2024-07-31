@@ -13,12 +13,16 @@ app.use((req, res, next) =>{
     next();
 });
 
-const puerto = 3015;
+const puerto = process.env.PORT || 3015;
 app.use(express.json());
 app.use("/api/v1", v1RouterAcceso);
 app.use("/api/v1/route", RouterConsole);
 app.use("/api/v1/route", RouterVideoJuegos);
 app.use("/api/v1/route", RouterFormulario);
+
+app.get("/", (req, res) =>{
+    res.send("Hola Mundo");
+})
 
 app.listen(puerto, () =>{
     console.log("Estoy llamando al puerto", puerto);
