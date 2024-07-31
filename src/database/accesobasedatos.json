@@ -1,0 +1,36 @@
+{
+    "accesos":
+        [
+            {
+                "usuario": "mjinesta",
+                "contrasena" : "mja261062"
+            },
+    
+            {
+                "usuario": "dmontero",
+                "contrasena" : "dmj091181"
+            },
+    
+            {
+                "usuario": "mvargas",
+                "contrasena" : "mvg021083"
+            },
+    
+            {
+                "usuario": "xsolano",
+                "contrasena" : "xsm210502"
+            },
+    
+            {
+                "usuario": "cmurillo",
+                "contrasena" : "cmj140301"
+            },
+    
+            {
+                "usuario": "fsolano",
+                "contrasena" : "fsx080404"
+            }
+    
+        ]
+    
+    }

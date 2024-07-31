@@ -1,0 +1,97 @@
+{
+    "Consoles":
+        [
+            {
+                "Id": "1",
+                "nombreConsola" : "Play Station 1",
+                "descripcionGeneral" : "Consola Primera Generacion",
+                "detalleConsola" : "Todas las especificaciones del Play 1",
+                "imagenModal" : "PS1.jpg",
+                "EstiloConsola" : "1",
+                "imagenLogo" : "PlayStation.png"
+            },
+            {
+                "Id": "2",
+                "nombreConsola" : "Play Station 2",
+                "descripcionGeneral" : "Consola Segunda Generacion",
+                "detalleConsola" : "Todas las especificaciones del Play 2",
+                "imagenModal" : "PS2.webp",
+                "EstiloConsola" : "1",
+                "imagenLogo" : "PlayStation.png"
+            },
+            {
+                "Id": "3",
+                "nombreConsola" : "Play Station 3",
+                "descripcionGeneral" : "Consola Tercera Generacion",
+                "detalleConsola" : "Todas las especificaciones del Play 3",
+                "imagenModal" : "PS3.png",
+                "EstiloConsola" : "1",
+                "imagenLogo" : "PlayStation.png"
+            },          
+            {
+                "Id": "4",
+                "nombreConsola" : "Play Station 4",
+                "descripcionGeneral" : "Consola Cuarta Generacion",
+                "detalleConsola" : "Todas las especificaciones del Play 4",
+                "imagenModal" : "PS4.jpg",
+                "EstiloConsola" : "1",
+                "imagenLogo" : "PlayStation.png"
+            },            
+            {
+                "Id": "5",
+                "nombreConsola" : "Play Station 5",
+                "descripcionGeneral" : "Consola Quinta Generacion",
+                "detalleConsola" : "Todas las especificaciones del Play 5",
+                "imagenModal" : "PS5.webp",
+                "EstiloConsola" : "1",
+                "imagenLogo" : "PlayStation.png"
+
+            },          
+            {
+                "Id": "6",
+                "nombreConsola" : "Xbox Serie X",
+                "descripcionGeneral" : "Consola version X",
+                "detalleConsola" : "Todas las especificaciones del Xbox X",
+                "imagenModal" : "xboxSerieX.jpg",
+                "EstiloConsola" : "2",
+                "imagenLogo" : "xboxLogo.webp"
+            },          
+            {
+                "Id": "7",
+                "nombreConsola" : "Xbox Serie XS",
+                "descripcionGeneral" : "Consola vesion XS",
+                "detalleConsola" : "Todas las especificaciones del Xbox XS",
+                "imagenModal" : "xboxSerieXS.jpg",
+                "EstiloConsola" : "2",
+                "imagenLogo" : "xboxLogo.webp"
+            },          
+            {
+                "Id": "8",
+                "nombreConsola" : "Nintendo Switch Modelo OLED",
+                "descripcionGeneral" : "Consola version Switch Modelo OLED  ",
+                "detalleConsola" : "Incluye una pantalla OLED de 7 pulgadas con un marco mas fino, puerto HDMI 2.0, puerto LAN, 1080p, dos controles Joy-Con ",
+                "imagenModal" : "NSOled.webp",
+                "EstiloConsola" : "3",
+                "imagenLogo" : "NintendoLogo.jpg"
+            } ,          
+            {
+                "Id": "9",
+                "nombreConsola" : "Nintendo Switch",
+                "descripcionGeneral" : "Consola version Switch",
+                "detalleConsola" : "Posee una pantalla LCD de 6.2 pulgadas, puerto HDMI, 1080p, dos controles Joy-Con ",
+                "imagenModal" : "NintendoSwitch.jpg",
+                "EstiloConsola" : "3",
+                "imagenLogo" : "NintendoLogo.jpg"
+            },          
+            {
+                "Id": "10",
+                "nombreConsola" : "Nintendo Switch Lite  ",
+                "descripcionGeneral" : "Consola version Switch Lite",
+                "detalleConsola" : "Pantalla de 5,5 pulgadas, puerto HDMI, 1.4b, 1080p, controles integrados",
+                "imagenModal" : "NSLITE.jpeg",
+                "EstiloConsola" : "3",
+                "imagenLogo" : "NintendoLogo.jpg"
+            }
+        ]
+    
+    }

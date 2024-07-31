@@ -1,0 +1,217 @@
+{
+    "VideoJuegos":
+        [
+            {
+                "IdVideoJuego": "1",
+                "Nombre": "Spyro The Dragon",
+                "IdConsola": "1",
+                "imagenJuego" : "Spyro.webp",
+                "informacionJuegos" : "Spyro the Dragon es un videojuego de plataformas en 3D; el jugador controla al personaje titular mientras se aventura por los reinos del Mundo Dragón para derrotar al antagonista Gnasty Gnorc, así como rescatar a sus compañeros dragones y recuperar todo su tesoro robado."
+
+            },
+            {
+                "IdVideoJuego": "2",
+                "Nombre": "Grand Theft Auto",
+                "IdConsola": "1",
+                "imagenJuego" : "GTA.jpg",
+                "informacionJuegos" : "Experimenta por ti mismo cada persecución de autos clásicos jamás vistos, corre a una velocidad vertiginosa a través de una inmensa, ciudad viva extrayendo y superando a pandilleros rivales, mercenarios, asesinos a sueldo y toda una fuerza policial."
+            },
+            {
+                "IdVideoJuego": "3",
+                "Nombre": "Digimon World",
+                "IdConsola": "1",
+                "imagenJuego" : "imagen1.webp",
+                "informacionJuegos" : "Atrevete a criar a un Digimon desde su etapa bebé hasta hacerlo evolucionar a su forma más poderosa"
+            },
+            {
+                "IdVideoJuego": "4",
+                "Nombre": "Dragon Ball Z: Budokai Tenkaichi 3",
+                "IdConsola": "2",
+                "imagenJuego" : "DragonBall.webp",
+                "informacionJuegos" : "Sumérgete en el universo de combate intergaláctico con Dragon Ball Z Budokai Tenkaichi 3"
+            },
+            {
+                "IdVideoJuego": "5",
+                "Nombre": "Grand Theft Auto: San Andreas",
+                "IdConsola": "2",
+                "imagenJuego" : "GTASA.webp",
+                "informacionJuegos" : "Se parte de una aventura en un mundo abierto ambientada a principios de los años 90 en el estado ficticio de San Andreas, siguiendo la historia de Carl Johnson, que regresa a su hogar en Los Santos viéndose arrastrado a una vida de bandas y crimen"
+            },
+            {
+                "IdVideoJuego": "6",
+                "Nombre": "Pro Evolution Soccer 6",
+                "IdConsola": "2",
+                "imagenJuego" :"PES6.jpg",
+                "informacionJuegos" :"Vuelve rey de los simuladores de fútbol un año más. Konami vuelve con la décima entrega de su simulación del deporte rey a las puertas del mundial de Alemania 2006"
+            },
+            {
+                "IdVideoJuego": "7",
+                "Nombre": "Batman: Arkham City",
+                "IdConsola": "3",
+                "imagenJuego" :"Batman.jpg",
+                "informacionJuegos" : "La continuación del aclamado Arkham Asylum lleva de nuevo a Batman a combatir contra sus peores enemigos, esta vez en medio de un distrito de Gotham convertido en el asilo Arkham"
+            },
+            {
+                "IdVideoJuego": "8",
+                "Nombre": "God of War III",
+                "IdConsola": "3",
+                "imagenJuego" :"GW3.jpg",
+                "informacionJuegos" : "God of War III es un juego para un jugador que permite a los jugadores asumir el papel climático del ex guerrero espartano, Kratos, mientras escala a través de las alturas intimidantes del monte. Olimpo y las oscuras profundidades del infierno para buscar venganza de aquellos que lo han traicionado"
+            },
+            {
+                "IdVideoJuego": "9",
+                "Nombre": "Little Big Planet ",
+                "IdConsola": "3",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "10",
+                "Nombre": "Red Dead Redemption 2",
+                "IdConsola": "4",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "11",
+                "Nombre": "Crash Team Racing Nitro-Fueled",
+                "IdConsola": "4",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },  
+            {
+                "IdVideoJuego": "12",
+                "Nombre": "F1 2020",
+                "IdConsola": "4",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "13",
+                "Nombre": "Hogwarts Legacy",
+                "IdConsola": "5",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "14",
+                "Nombre": "Call of Duty: Modern Warfare 2 (2022)",
+                "IdConsola": "5",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "15",
+                "Nombre": "Fifa 22",
+                "IdConsola": "5",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "16",
+                "Nombre": "Call of Duty Vanguard",
+                "IdConsola": "6",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "17",
+                "Nombre": "Halo Infinite",
+                "IdConsola": "6",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "18",
+                "Nombre": "Forza Horizon 5",
+                "IdConsola": "6",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "19",
+                "Nombre": "Call of Duty Vanguard",
+                "IdConsola": "7",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "20",
+                "Nombre": "Halo Infinite",
+                "IdConsola": "7",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "21",
+                "Nombre": "Forza Horizon 5",
+                "IdConsola": "7",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "22",
+                "Nombre": "Super Mario Bros. Wonder",
+                "IdConsola": "8",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "23",
+                "Nombre": "The Legend of Zelda: Tears of the Kingdom",
+                "IdConsola": "8",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "24",
+                "Nombre": "Donkey Kong Country: Tropical Freeze",
+                "IdConsola": "8",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "25",
+                "Nombre": "Super Mario Bros. Wonder",
+                "IdConsola": "9",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "26",
+                "Nombre": "The Legend of Zelda: Tears of the Kingdom",
+                "IdConsola": "9",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "27",
+                "Nombre": "Donkey Kong Country: Tropical Freeze",
+                "IdConsola": "9",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "28",
+                "Nombre": "Super Mario Bros. Wonder",
+                "IdConsola": "10",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "29",
+                "Nombre": "The Legend of Zelda: Tears of the Kingdom",
+                "IdConsola": "10",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            },
+            {
+                "IdVideoJuego": "30",
+                "Nombre": "Donkey Kong Country: Tropical Freeze",
+                "IdConsola": "10",
+                "imagenJuego" :"",
+                "informacionJuegos" : ""
+            }
+        ]
+    
+    }
